@@ -169,7 +169,7 @@ echo "<script>window.location.href ='manage-incomingvehicle.php'</script>";
 
     <div class="clearfix"></div>
 
-   <?php include_once('includes/footer.php');?>
+ 
 
 </div><!-- /#right-panel -->
 

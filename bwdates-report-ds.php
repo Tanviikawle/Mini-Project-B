@@ -124,7 +124,7 @@ if (strlen($_SESSION['vpmsaid']==0)) {
 
     <div class="clearfix"></div>
 
-   <?php include_once('includes/footer.php');?>
+
 
 </div><!-- /#right-panel -->
 

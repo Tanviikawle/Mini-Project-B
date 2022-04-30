@@ -183,8 +183,7 @@ $count_total_vehentries=mysqli_num_rows($query3);
         </div>
         <!-- /.content -->
         <div class="clearfix"></div>
-        <!-- Footer -->
-       <?php include_once('includes/footer.php');?>
+       
 
     <!-- /#right-panel -->
 

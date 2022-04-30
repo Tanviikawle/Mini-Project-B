@@ -150,8 +150,7 @@ while ($row=mysqli_fetch_array($ret)) {
 
     <div class="clearfix"></div>
 
-   <?php include_once('includes/footer.php');?>
-
+ 
 </div><!-- /#right-panel -->
 
 <!-- Right Panel -->
